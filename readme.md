@@ -1,4 +1,4 @@
-# Codeception [![Latest Stable](https://poser.pugx.org/Codeception/Codeception/version.png)](https://packagist.org/packages/Codeception/Codeception)[![Total Downloads](https://poser.pugx.org/codeception/codeception/downloads.png)](https://packagist.org/packages/codeception/codeception)![DailyDownloads](https://img.shields.io/packagist/dd/codeception/codeception.svg)[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Codeception/Codeception?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)[![PHP 7 ready](http://php7ready.timesplinter.ch/Codeception/Codeception/badge.svg)](https://travis-ci.org/codeception/codeception})
+# Codeception [![Latest Stable](https://poser.pugx.org/Codeception/Codeception/version.png)](https://packagist.org/packages/Codeception/Codeception)[![Total Downloads](https://poser.pugx.org/codeception/codeception/downloads.png)](https://packagist.org/packages/codeception/codeception)![DailyDownloads](https://img.shields.io/packagist/dd/codeception/codeception.svg)[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Codeception/Codeception?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)[![PHP 7 ready](http://php7ready.timesplinter.ch/Codeception/Codeception/badge.svg)](https://travis-ci.org/Codeception/Codeception)
 
 
 **Modern PHP Testing for everyone** 
@@ -101,4 +101,4 @@ See Documentation for more information.
 MIT
 
 (c) Michael Bodnarchuk "Davert"
-2011-2015
+2011-2016
